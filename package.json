@@ -1,0 +1,17 @@
+{
+  "name": "dance",
+  "version": "1.0.0",
+  "description": "A minimal Electron application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/classam/dance",
+  "keywords": [
+  ],
+  "author": "Curtis Lassam",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^1.4.1"
+  }
+}
