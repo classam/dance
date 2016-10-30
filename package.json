@@ -7,11 +7,13 @@
     "start": "electron ."
   },
   "repository": "https://github.com/classam/dance",
-  "keywords": [
-  ],
+  "keywords": [],
   "author": "Curtis Lassam",
   "license": "UNLICENSED",
   "devDependencies": {
     "electron": "^1.4.1"
+  },
+  "dependencies": {
+    "pixi.js": "^4.1.0"
   }
 }
